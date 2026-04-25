@@ -1,13 +1,15 @@
-Gold Gas Landing Page Preview
+Gold Gas Preview Exato
 
-Como publicar na Vercel:
+Esta versão usa o mockup visual aprovado como imagem de apresentação.
+É ideal para enviar ao cliente como preview.
 
-1. Extraia esta pasta.
-2. Abra o terminal dentro da pasta.
-3. Rode:
-   npm i -g vercel
-   vercel --prod
+Para publicar:
+1. Suba estes arquivos no GitHub:
+   - index.html
+   - gold-gas-landing-mockup.png
+   - vercel.json
+2. Importe o repositório na Vercel.
+3. Clique em Deploy.
 
-Na primeira vez, a Vercel vai pedir login e algumas confirmações.
-Quando perguntar o framework, use "Other" ou deixe a detecção automática.
-O resultado final será um link .vercel.app para enviar ao cliente.
+Observação:
+Esta é uma versão de apresentação visual, não o site final programado seção por seção.
